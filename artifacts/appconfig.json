@@ -1,0 +1,10 @@
+{
+  "name": "mdmtrial",
+  "provider": "mdm",
+  "description": "extension trial for mdm",
+  "version": "1.0",
+  "icon": "https://www.ikea.com/sa/en/images/products/smycka-artificial-flower__0903423_PE596775_S5.JPG",
+  "dockerRegistry": "docker.io/mqheather",
+  "helmChartVersion": "1.0.0",
+  "parameters": []
+}
